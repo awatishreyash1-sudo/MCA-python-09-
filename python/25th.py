@@ -1,0 +1,12 @@
+num = int(input("Enter a number: "))
+
+count = 0
+
+print("Factors:")
+
+for i in range(1, num + 1):
+    if num % i == 0:
+        print(i)
+        count = count + 1
+
+print("Total factors =", count)
