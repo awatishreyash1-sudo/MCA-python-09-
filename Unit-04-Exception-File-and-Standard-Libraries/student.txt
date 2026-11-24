@@ -1,0 +1,7 @@
+Name: rushiraj
+Roll Number: 88
+Class: mca
+
+Name: ayush
+Roll Number: 99
+Class: mca
